@@ -1,4 +1,5 @@
 # estelar-v1.1.0
+
 An internal social media app meant for businesses.
 The app currently allows the following functions:
 - loggin into an account
@@ -7,4 +8,5 @@ The app currently allows the following functions:
 - play a small reflex game
 - earn badges
 - edit your profile
+
 
